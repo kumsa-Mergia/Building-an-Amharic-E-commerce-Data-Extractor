@@ -1,0 +1,5 @@
+outs:
+- md5: ac0771902ba6c6cd6721c5e98c964482
+  size: 324660
+  hash: md5
+  path: clean_scraped.csv
