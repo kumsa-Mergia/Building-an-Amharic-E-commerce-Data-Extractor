@@ -1,0 +1,5 @@
+telethon 
+python-dotenv
+clean-text
+pandas
+dvc

@@ -54,6 +54,6 @@ This project builds an end-to-end pipeline to **scrape, preprocess, label, train
 ## 👥 Contributing
 
 * Share labeled datasets for collaborative fine-tuning.
-* Open issues or submit pull requests for improvements.
+
 
 
