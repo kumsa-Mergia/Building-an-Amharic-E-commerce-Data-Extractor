@@ -1,0 +1,5 @@
+outs:
+- md5: f18cc4005493cabd231693f62d9ab9a3
+  size: 28079
+  hash: md5
+  path: ner_dataset.conll
