@@ -21,7 +21,7 @@ Due to GitHub's file size restrictions, the trained model is not stored directly
 
 You can download the fine-tuned model from the following Google Drive link:
 
-👉 [Download Amharic NER Model (ZIP, ~766MB)](https://drive.google.com/your-shared-link-here)
+👉 [Download Amharic NER Model (ZIP, ~766MB)](https://drive.google.com/drive/folders/1_nYhtvLlBe2P8tq5-rOsu-VFGBifQURW?usp=drive_link)
 
 > Once downloaded, extract the ZIP file and load the model using `transformers`:
 
@@ -55,7 +55,7 @@ model = AutoModelForTokenClassification.from_pretrained(model_dir)
 
 - `Fine-Tune/Amharic_NER_FineTuning.ipynb`: Training notebook
 - `Data/`: Contains cleaned and preprocessed data
-- `amharic-ner-model.zip`: [Download from Google Drive](https://drive.google.com/your-shared-link-here)
+- `amharic-ner-model.zip`: [Download from Google Drive]([https://drive.google.com/your-shared-link-here](https://drive.google.com/drive/folders/1_nYhtvLlBe2P8tq5-rOsu-VFGBifQURW?usp=drive_link))
 
 ```
 
